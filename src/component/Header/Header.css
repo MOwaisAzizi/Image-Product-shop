@@ -1,0 +1,13 @@
+.Header{
+    background-color: rgb(37, 229, 37);
+    height: 100px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Nav{
+    background-color: rgb(37, 37, 223);
+}
