@@ -5,7 +5,6 @@ import { LinkContainer } from "react-router-bootstrap";
 
 const Header = () => {
     return (
-
         <header>
             <Navbar className="Nav" variant="dark">
                 <Container>
